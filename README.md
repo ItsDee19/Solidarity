@@ -27,20 +27,17 @@ Follow these steps to run Solidarity locally:
    git clone https://github.com/your-username/solidarity.git
 2. **Install Dependancies**
    ```bash
-cd solidarity
-npm install
-
-npm install</code></pre>
-        </li>
-        <li>Set up a local Ethereum development environment or connect to an existing Ethereum network.</li>
-        <li>Configure the environment variables by creating a <code>.env</code> file in the project root. Example:
-            <pre><code>NEXT_PUBLIC_INFURA_API_KEY=your_infura_api_key
-NEXT_PUBLIC_CONTRACT_ADDRESS=your_contract_address</code></pre>
-        </li>
-        <li>Run the application:
-            <pre><code>npm run dev</code></pre>
-        </li>
-    </ol>
+       cd solidarity
+       npm install
+3. Set up a local Ethereum development environment or connect to an existing Ethereum network.
+  **Configure Environment Variables**
+    Create a .env file in the project root with the following content:
+   ```bash  
+        NEXT_PUBLIC_INFURA_API_KEY=your_infura_api_key
+        NEXT_PUBLIC_CONTRACT_ADDRESS=your_contract_address
+4. **Run the Application**
+   ```bash
+     npm run dev
 The application should now be accessible at [http://localhost:3000](http://localhost:3000).
 
 

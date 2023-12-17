@@ -1,4 +1,4 @@
-# Solidarity: Decentralized Crowdfunding DApp
+# Solidarity: Decentralized Crowdfunding App
 
 Solidarity is a decentralized crowdfunding platform that leverages the Ethereum blockchain, utilizing Solidity for smart contracts and Next.js for the front-end. The goal is to simplify crowdfunding, enabling users to effortlessly create campaigns and raise funds for their projects, causes, or initiatives.
 

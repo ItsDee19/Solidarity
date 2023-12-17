@@ -25,6 +25,11 @@ Follow these steps to run Solidarity locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/solidarity.git
+2. **Install Dependancies**
+   ```bash
+cd solidarity
+npm install
+
 npm install</code></pre>
         </li>
         <li>Set up a local Ethereum development environment or connect to an existing Ethereum network.</li>

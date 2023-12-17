@@ -43,21 +43,6 @@ NEXT_PUBLIC_CONTRACT_ADDRESS=your_contract_address</code></pre>
             <pre><code>npm run dev</code></pre>
         </li>
     </ol>
+The application should now be accessible at [http://localhost:3000](http://localhost:3000).
 
-    <p>The application should now be accessible at <a href="http://localhost:3000">http://localhost:3000</a>.</p>
 
-    <h2>Contributing</h2>
-
-    <p>If you would like to contribute to Solidarity, please follow our <a href="CONTRIBUTING.md">contribution guidelines</a>.</p>
-
-    <h2>License</h2>
-
-    <p>Solidarity is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-    <h2>Contact</h2>
-
-    <p>For any inquiries or support, please contact us at <a href="mailto:email@example.com">email@example.com</a>.</p>
-
-</body>
-
-</html>

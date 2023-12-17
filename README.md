@@ -20,18 +20,11 @@ Solidarity is a decentralized crowdfunding platform that leverages the Ethereum 
 
 Follow these steps to run Solidarity locally:
 
+Follow these steps to run Solidarity locally:
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/solidarity.git
-
-    <h2>Getting Started</h2>
-
-    <ol>
-        <li>Clone the repository:
-            <pre><code>git clone https://github.com/your-username/solidarity.git</code></pre>
-        </li>
-        <li>Install dependencies:
-            <pre><code>cd solidarity
 npm install</code></pre>
         </li>
         <li>Set up a local Ethereum development environment or connect to an existing Ethereum network.</li>

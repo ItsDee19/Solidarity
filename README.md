@@ -1,30 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+# Solidarity: Decentralized Crowdfunding DApp
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Solidarity: Decentralized Crowdfunding DApp</title>
-</head>
+Solidarity is a decentralized crowdfunding platform that leverages the Ethereum blockchain, utilizing Solidity for smart contracts and Next.js for the front-end. The goal is to simplify crowdfunding, enabling users to effortlessly create campaigns and raise funds for their projects, causes, or initiatives.
 
-<body>
+## Features
 
-    <h1>Solidarity: Decentralized Crowdfunding DApp</h1>
+- **Decentralized Crowdfunding:** Solidarity eliminates intermediaries, allowing users to create campaigns without relying on traditional financial institutions.
 
-    <h2>Overview</h2>
+- **Security:** Smart contracts ensure secure and transparent transactions, managing all funds securely on the Ethereum blockchain.
 
-    <p>Solidarity is a decentralized crowdfunding platform built on the Ethereum blockchain using Solidity for smart contracts and Next.js for the front-end. The aim of Solidarity is to make crowdfunding easy and accessible, allowing users to create campaigns to raise funds for their projects, causes, or initiatives.</p>
+- **Next.js Front-end:** A fast and efficient front-end provides a seamless user experience, designed to be responsive and user-friendly.
 
-    <h2>Features</h2>
+- **Campaign Creation:** Users can easily create crowdfunding campaigns, specifying details such as the fundraising goal, campaign duration, and a compelling project description.
 
-    <ul>
-        <li><strong>Decentralized Crowdfunding:</strong> Solidarity eliminates the need for intermediaries by leveraging the power of blockchain technology. Users can create campaigns without relying on traditional financial institutions.</li>
-        <li><strong>Security:</strong> The use of smart contracts ensures the security and transparency of transactions. All funds are managed securely on the Ethereum blockchain.</li>
-        <li><strong>Next.js Front-end:</strong> The Next.js framework provides a fast and efficient front-end, offering a seamless user experience. The application is designed to be responsive and user-friendly.</li>
-        <li><strong>Campaign Creation:</strong> Users can easily create crowdfunding campaigns, specifying details such as the fundraising goal, campaign duration, and a compelling description of their project.</li>
-        <li><strong>Contribution Handling:</strong> Contributors can browse through active campaigns, contribute funds, and track the progress of campaigns. The smart contracts handle the distribution of funds according to the predefined rules.</li>
-        <li><strong>Token Integration:</strong> Solidarity may incorporate a custom ERC-20 token to enhance the functionality of the platform, offering additional features and benefits for users.</li>
-    </ul>
+- **Contribution Handling:** Contributors can browse campaigns, contribute funds, and track progress. Smart contracts handle fund distribution according to predefined rules.
+
+- **Token Integration:** Solidarity may incorporate a custom ERC-20 token, enhancing platform functionality with additional features and benefits.
+
+## Getting Started
+
+Follow these steps to run Solidarity locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/solidarity.git
 
     <h2>Getting Started</h2>
 
